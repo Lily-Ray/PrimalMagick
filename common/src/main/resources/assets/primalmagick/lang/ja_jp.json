@@ -2196,7 +2196,7 @@
   "research.primalmagick.shard_desynthesis.text.addenda.3": "虚無の破片の異質な性質が、魔導分解のプロセスの適用に影響を及ぼすのではないかと少し懸念していたが、問題なく機能した。",
   "research.primalmagick.shard_desynthesis.text.addenda.4": "今更驚くことでもないが、星聖の破片も他の魔源と同様のプロセスで魔導分解できる。",
   "research.primalmagick.shard_desynthesis.text.stage.1": "魔粉から破片を作れるのであれば、論理的に考えて、それらを再び魔粉へと分解することも可能であるはずだ。",
-  "research.primalmagick.shard_desynthesis.text.stage.2": "さて、良い知らせは、確かに破片を挽いて魔粉に戻せるということだ。悪い知らせは、その過程で損失が生じるということだ。回収できる魔粉は、最初に投入した量の半分程度に過ぎず、副産物の Quartz Dust は完全に使い物にならない。<BR>したがって、すべての魔粉をこの方法で破片に変換してしまうのは賢明ではないだろう。鉄や金で作れるような、圧縮用のストレージブロックとはわけが違うのだ。だが、もしどこかで精髄の必要量を見誤ったとしても、完全に手詰まりになることはないだろう。",
+  "research.primalmagick.shard_desynthesis.text.stage.2": "さて、良い知らせは、確かに破片を挽いて魔粉に戻せるということだ。悪い知らせは、その過程で損失が生じるということだ。回収できる魔粉は、最初に投入した量の半分程度に過ぎず、副産物のクォーツの粉は完全に使い物にならない。<BR>したがって、すべての魔粉をこの方法で破片に変換してしまうのは賢明ではないだろう。鉄や金で作れるような、圧縮用のストレージブロックとはわけが違うのだ。だが、もしどこかで精髄の必要量を見誤ったとしても、完全に手詰まりになることはないだろう。",
   "research.primalmagick.shard_desynthesis.title": "破片の魔導分解",
   "research.primalmagick.shard_synthesis.text.addenda.1": "予想通り、破片の魔導錬成のプロセスは冥血の魔粉に対しても有効だ。",
   "research.primalmagick.shard_synthesis.text.addenda.2": "やはり、破片の魔導錬成のプロセスは煉獄の魔粉にも通用するようだ。",
