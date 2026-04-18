@@ -912,7 +912,7 @@
   "grimoire.primalmagick.recipe_index_header": "レシピ一覧",
   "grimoire.primalmagick.recipe_metadata.discipline": "学系:",
   "grimoire.primalmagick.recipe_metadata.entry": "研究項目:",
-  "grimalmagick.required_knowledge_header": "必要な知識:",
+  "grimoire.primalmagick.required_knowledge_header": "必要な知識:",
   "grimoire.primalmagick.required_research_header": "発見の必要あり:",
   "grimoire.primalmagick.required_stats_header": "必要な統計データ:",
   "grimoire.primalmagick.requirements_header": "完了条件",
