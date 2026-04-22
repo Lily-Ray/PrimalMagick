@@ -1730,7 +1730,7 @@
   "research.primalmagick.concocting_bombs.text.addenda.2": "魔導爆弾のレシピの中には、煉獄の精髄の使用を必要とするものがある。",
   "research.primalmagick.concocting_bombs.text.addenda.3": "魔導爆弾のレシピの中には、虚無の魔源の使用を必要とするものがある。",
   "research.primalmagick.concocting_bombs.text.stage.1": "ポーションの中には、飲むことを想定していないものもある。少なくとも、自分自身で飲むものではない。あるいは、他者と「共有」するためのものだろうか？<BR>いずれにせよ、スカイグラスフラスコはスプラッシュポーションで使われる普通のガラス瓶のように粉々にはならない。それに、たとえ割れたとしても、一度にこれほど大量のポーションを無駄にしたい者がいるだろうか？<BR>新たな散布方法を考案しなければならない。",
-  "research.primalmagick.concocting_bombs.text.stage.2": "爆弾だ！魔導爆弾は素晴らしい！ <BR>専用の魔導爆弾の外殻を製作することで、離れた場所にいる誰かにポーションを小分けにして浴びせることが可能になった。一組の外殻から6つのBombが生成される。 <BR>この錬金術的な爆弾は、着弾と同時に必ず爆発するわけではない。生物に直接命中させれば爆発するが、外れた場合は跳ね返る。爆弾は時限信管式で、時間が経過すると爆発する仕組みだ。スニーク中に使用することで、信管の長さを変更することができる。",
+  "research.primalmagick.concocting_bombs.text.stage.2": "爆弾だ！魔導爆弾は素晴らしい！ <BR>専用の魔導爆弾の外殻を製作することで、離れた場所にいる誰かにポーションを小分けにして浴びせることが可能になった。一組の外殻から6つの爆弾が生成される。 <BR>この錬金術的な爆弾は、着弾と同時に必ず爆発するわけではない。生物に直接命中させれば爆発するが、外れた場合は跳ね返る。爆弾は時限信管式で、時間が経過すると爆発する仕組みだ。スニーク中に使用することで、信管の長さを変更することができる。",
   "research.primalmagick.concocting_bombs.title": "魔導調合：魔導爆弾",
   "research.primalmagick.concocting_elixirs.text.addenda.1": "一部のエリクサーのレシピには、冥血の精髄の使用が必要である。",
   "research.primalmagick.concocting_elixirs.text.addenda.2": "一部のエリクサーのレシピには、煉獄の精髄の使用が必要である。",
